@@ -1,0 +1,6 @@
+print (type(10))
+print (type(2.56))
+print (type(2+3j))
+print (type("Hello World"))
+print (type([1,2,3]))
+print (type({1:'one', 2:'two'}))
